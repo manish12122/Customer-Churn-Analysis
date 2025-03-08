@@ -1,5 +1,5 @@
 
-# Customer Churn Analysis README
+# Customer Churn Analysis
 
 ## Objective
 The goal of this analysis is to understand customer churn behavior, identify the factors driving higher churn rates, and provide data-driven recommendations to improve customer retention. By analyzing service usage, contract types, and payment methods, we aim to uncover actionable insights that can help the business reduce churn and enhance customer satisfaction.
